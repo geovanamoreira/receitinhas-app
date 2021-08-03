@@ -1,0 +1,12 @@
+.largura{
+  width: 800px;
+}
+
+img{
+  min-height: 200px;
+  max-height: 200px;
+}
+
+nav{
+  width: 1000px;
+}
