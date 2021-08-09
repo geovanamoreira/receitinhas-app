@@ -1,9 +1,19 @@
-<section class="content-header">
+<section class="content-header mt-3">
   <h1>Todas as Receitas</h1>
 </section>
 
+<br>
+
+<nav class="navbar navbar-light bg-danger mt-3">
+  <div class="container-fluid">
+    <span class="navbar-brand mb-0 h1">Receitas mais famosas</span>
+  </div>
+</nav>
+
+<br>
+
 <div class="row">
-  <div class="col-sm-6 col-xs-12">
-    <app-receita></app-receita>
+  <div class="col-sm-4 col-xs-12" *ngFor="let receita of receitas">
+    <app-receita [receita]="receita"></app-receita>
   </div>
 </div>

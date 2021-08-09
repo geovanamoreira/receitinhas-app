@@ -1,3 +1,4 @@
+import { ReceitasService } from './receitas/receitas.service';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -24,7 +25,7 @@ import { ReceitaComponent } from './receitas/receita/receita.component';
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [ReceitasService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

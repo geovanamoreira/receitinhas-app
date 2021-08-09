@@ -1,12 +1,12 @@
 .largura{
-  width: 800px;
+  width: 252px;
+  margin-bottom: 15px;
 }
 
 img{
-  min-height: 200px;
-  max-height: 200px;
+  height: 200px;
+  min-width: 250px;
+  max-width: 250px;
 }
 
-nav{
-  width: 1000px;
-}
+
