@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "receitinhas-app"
+    }
+  },
+  "defaultProject": "receitinhas-app",
+  "cli": {
+    "analytics": "1fa336de-21be-4447-824b-fe158428f40a"
+  }
 }
