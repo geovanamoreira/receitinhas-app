@@ -13,6 +13,7 @@ import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
 import { ReceitasComponent } from './receitas/receitas.component';
 import { ReceitaComponent } from './receitas/receita/receita.component';
+import { ReceitaDetalheComponent } from './receita-detalhe/receita-detalhe.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { ReceitaComponent } from './receitas/receita/receita.component';
     HomeComponent,
     AboutComponent,
     ReceitasComponent,
-    ReceitaComponent
+    ReceitaComponent,
+    ReceitaDetalheComponent
   ],
   imports: [
     BrowserModule,

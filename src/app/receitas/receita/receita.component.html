@@ -1,10 +1,10 @@
-<div >
+<div>
   <div class="card largura">
     <img [src]="receita.imagePath" class="card-img-top">
     <div class="card-body">
       <h5 class="card-title">{{receita.nome}}</h5>
       <p class="card-text">{{receita.descricao}}</p>
-      <a href="#" class="btn btn-primary">Ver receita</a>
+      <a [routerLink]="['/receitas', receita.id]" class="btn btn-primary">Ver receita</a>
     </div>
   </div>
 </div>
