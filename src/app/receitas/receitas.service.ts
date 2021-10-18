@@ -22,6 +22,13 @@ export class ReceitasService {
     );
   }
 
+  receitaById(id: String): Observable<Receita>{
+    return this.http.get<Receita>(`${RECEITINHAS_API}/receitas/${id}`).pipe(
+      map(receitas => receitas),
+      catchError(erro => this.exibeErro(erro))
+    );
+  }
+
   exibeErro(e: any): Observable<any> {
     this.exibirMensagem('ERRO !!!', 'Não foi possível realizar a operação!', 'toast-error');
     return EMPTY;

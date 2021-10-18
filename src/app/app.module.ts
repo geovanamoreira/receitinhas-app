@@ -14,6 +14,8 @@ import { AboutComponent } from './about/about.component';
 import { ReceitasComponent } from './receitas/receitas.component';
 import { ReceitaComponent } from './receitas/receita/receita.component';
 import { ReceitaDetalheComponent } from './receita-detalhe/receita-detalhe.component';
+import { MenuComponent } from './receita-detalhe/menu/menu.component';
+import { MenuItemComponent } from './receita-detalhe/menu-item/menu-item.component';
 
 
 @NgModule({
@@ -25,7 +27,9 @@ import { ReceitaDetalheComponent } from './receita-detalhe/receita-detalhe.compo
     AboutComponent,
     ReceitasComponent,
     ReceitaComponent,
-    ReceitaDetalheComponent
+    ReceitaDetalheComponent,
+    MenuComponent,
+    MenuItemComponent
   ],
   imports: [
     BrowserModule,
