@@ -14,8 +14,8 @@ import { AboutComponent } from './about/about.component';
 import { ReceitasComponent } from './receitas/receitas.component';
 import { ReceitaComponent } from './receitas/receita/receita.component';
 import { ReceitaDetalheComponent } from './receita-detalhe/receita-detalhe.component';
-import { MenuComponent } from './receita-detalhe/menu/menu.component';
-import { MenuItemComponent } from './receita-detalhe/menu-item/menu-item.component';
+import { IngredientesComponent } from './receita-detalhe/ingredientes/ingredientes.component';
+import { ModoPreparoComponent } from './receita-detalhe/modo-preparo/modo-preparo.component';
 
 
 @NgModule({
@@ -28,8 +28,8 @@ import { MenuItemComponent } from './receita-detalhe/menu-item/menu-item.compone
     ReceitasComponent,
     ReceitaComponent,
     ReceitaDetalheComponent,
-    MenuComponent,
-    MenuItemComponent
+    IngredientesComponent,
+    ModoPreparoComponent,
   ],
   imports: [
     BrowserModule,
