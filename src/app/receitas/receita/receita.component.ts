@@ -1,4 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+import { ReceitasService } from '../receitas.service';
 import { Receita } from './receita.model';
 
 @Component({
@@ -10,7 +12,9 @@ export class ReceitaComponent implements OnInit {
 
   @Input() receita: Receita;
 
-  constructor() { }
+
+  constructor() {
+   }
 
   ngOnInit(): void {
   }
