@@ -3,4 +3,6 @@ export interface Receita{
   nome: string
   descricao: string
   imagePath: string
+  ingredientes: string
 }
+
