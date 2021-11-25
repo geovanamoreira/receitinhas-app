@@ -5,7 +5,16 @@
         "nome": "Churros",
         "descricao": "Os melhores churros de todos os tempos já feitos!",
         "imagePath": "https://coolicias.ao/wp-content/uploads/2019/11/Receita-Deliciosa-de-Churros-Gourmet-1200x1200.jpg",
-        "ingredientes": ""
+        "ingredientes": [ "-250 ml de água",
+          "\n-2 colheres (sopa) de açúcar",
+          "\n-2 colheres (sopa) de margarina ou manteiga sem sal",
+          "\n-1 pitada de sal (se a margarina tiver sal, dispensar a pitada)",
+          "\n-300 g de farinha de trigo",
+          "\n-3 ovos",
+          "\n-óleo para fritar",
+          "\n-açúcar e canela misturados para passar os churros depois de fritos",
+          "\n-doce de leite."],
+        "modo_preparo": []
       },
 
 
@@ -14,7 +23,8 @@
         "nome": "Tortinha de Limão",
         "descricao": "Rápida e prática de se fazer, para alegrar seu dia!!",
         "imagePath": "https://5285.cdn.simplo7.net/static/5285/sku/e-liquids-Eliquid-tortalimao-1550515638612.jpg",
-        "ingredientes": ""
+        "ingredientes": "",
+        "modo_preparo": []
       },
 
       {
@@ -22,7 +32,8 @@
         "nome": "Bolo de Cenoura",
         "descricao": "Delioso, muito fofinho e fácil de fazer!",
         "imagePath": "https://img.itdg.com.br/tdg/images/recipes/000/000/023/323619/323619_original.jpg?mode=crop&width=710&height=400",
-        "ingredientes": ""
+        "ingredientes": "",
+        "modo_preparo":[]
       },
 
       {

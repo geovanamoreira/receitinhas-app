@@ -4,5 +4,6 @@ export interface Receita{
   descricao: string
   imagePath: string
   ingredientes: string
+  modo_preparo: string
 }
 
