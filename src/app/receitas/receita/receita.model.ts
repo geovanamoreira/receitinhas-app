@@ -3,7 +3,7 @@ export interface Receita{
   nome: string
   descricao: string
   imagePath: string
-  ingredientes: string
-  modo_preparo: string
+  ingredientes: string[]
+  modo_preparo: string[]
 }
 

@@ -14,9 +14,6 @@ import { AboutComponent } from './about/about.component';
 import { ReceitasComponent } from './receitas/receitas.component';
 import { ReceitaComponent } from './receitas/receita/receita.component';
 import { ReceitaDetalheComponent } from './receita-detalhe/receita-detalhe.component';
-import { IngredientesComponent } from './receita-detalhe/ingredientes/ingredientes.component';
-import { ModoPreparoComponent } from './receita-detalhe/modo-preparo/modo-preparo.component';
-
 
 @NgModule({
   declarations: [
@@ -28,8 +25,6 @@ import { ModoPreparoComponent } from './receita-detalhe/modo-preparo/modo-prepar
     ReceitasComponent,
     ReceitaComponent,
     ReceitaDetalheComponent,
-    IngredientesComponent,
-    ModoPreparoComponent,
   ],
   imports: [
     BrowserModule,

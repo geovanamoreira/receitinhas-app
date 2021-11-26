@@ -5,16 +5,25 @@
         "nome": "Churros",
         "descricao": "Os melhores churros de todos os tempos já feitos!",
         "imagePath": "https://coolicias.ao/wp-content/uploads/2019/11/Receita-Deliciosa-de-Churros-Gourmet-1200x1200.jpg",
-        "ingredientes": [ "-250 ml de água",
-          "\n-2 colheres (sopa) de açúcar",
-          "\n-2 colheres (sopa) de margarina ou manteiga sem sal",
-          "\n-1 pitada de sal (se a margarina tiver sal, dispensar a pitada)",
-          "\n-300 g de farinha de trigo",
-          "\n-3 ovos",
-          "\n-óleo para fritar",
-          "\n-açúcar e canela misturados para passar os churros depois de fritos",
-          "\n-doce de leite."],
-        "modo_preparo": []
+        "ingredientes": [ "-250 ml de água;",
+          "-2 colheres (sopa) de açúcar;",
+          "-2 colheres (sopa) de margarina ou manteiga sem sal;",
+          "-1 pitada de sal (se a margarina tiver sal, dispensar a pitada);",
+          "-300 g de farinha de trigo;",
+          "-3 ovos;",
+          "-óleo para fritar;",
+          "-açúcar e canela misturados para passar os churros depois de fritos;",
+          "-doce de leite."],
+
+          "modo_preparo": ["-Aqueça a água em uma panela, abaixe o fogo e acrescente a margarina e o açúcar;",
+          "-Mexa bem, até dissolver toda a margarina;",
+          "-Acrescente aos poucos a farinha de trigo, mexendo sempre, até que a massa desprenda da panela;",
+          "-Tire do fogo e acrescente os ovos um a um, mexendo bem até misturar toda a massa;",
+          "-A seguir, coloque a massa num saco de confeiteiro com o bico em formato de pitanga, ou na forma própria para churros;",
+          "-Aperte, já dentro da frigideira com o óleo quente, o tamanho fica a seu critério, corte com a ponta dos dedos ou com uma faca;",
+          "-Depois de frito, coloque em papel toalha para que absorva a gordura;",
+          "-Açúcar e canela misturados para passar os churros depois de fritos;",
+          "-Em seguida, passe pelo açúcar com canela e recheie com doce de leite usando o bico que já vem junto com a forma."]
       },
 
 
@@ -23,8 +32,37 @@
         "nome": "Tortinha de Limão",
         "descricao": "Rápida e prática de se fazer, para alegrar seu dia!!",
         "imagePath": "https://5285.cdn.simplo7.net/static/5285/sku/e-liquids-Eliquid-tortalimao-1550515638612.jpg",
-        "ingredientes": "",
-        "modo_preparo": []
+        "ingredientes": ["Massa:",
+          "-200 g de biscoito de maisena;",
+          "-150 g de margarina;",
+          "Recheio;:",
+          "-1 lata de leite condensado (395 g);",
+          "-1 caixa de creme de leite (200 g);",
+          "Suco de 4 limões;",
+          "Raspas de 2 limões;",
+          "Cobertura:",
+          "3 ou 4 claras de ovo;",
+          "3 colheres (sopa) de açúcar;",
+          "Raspas de 2 limões para decorar."],
+
+        "modo_preparo": ["Massa:",
+          "Triture o biscoito de maisena em um liquidificador ou processador;",
+          "Junte a margarina e bata mais um pouco;",
+          "Despeje a massa em uma forma de fundo removível (27 cm de diâmetro);",
+          "Com as mãos, espalhe os biscoitos triturados no fundo e nas laterais da forma, cobrindo toda área de maneira uniforme;",
+          "Leve ao forno médio (180° C), preaquecido, por aproximadamente 10 minutos.",
+
+          "Recheio:",
+          "Bata todos os ingredientes no liquidificador (exceto as raspas de limão) até obter um creme liso e firme;",
+          "Recheie a massa já assada e leve à geladeira por 30 minutos.",
+
+          "Cobertura:",
+          "Bata as claras em neve e acrescente o açúcar;",
+          "Misture até obter um ponto de suspiro e leve ao forno até dourar.",
+
+          "Final:",
+          "Desenforme a torta (sem retirar o fundo falso), despeje a cobertura e acrescente as raspas de limão."
+        ]
       },
 
       {
