@@ -5,7 +5,9 @@
         "nome": "Churros",
         "descricao": "Os melhores churros de todos os tempos já feitos!",
         "imagePath": "https://coolicias.ao/wp-content/uploads/2019/11/Receita-Deliciosa-de-Churros-Gourmet-1200x1200.jpg",
-        "ingredientes": [ "-250 ml de água;",
+        "ingredientes": [
+          "MASSA:",
+          "-250 ml de água;",
           "-2 colheres (sopa) de açúcar;",
           "-2 colheres (sopa) de margarina ou manteiga sem sal;",
           "-1 pitada de sal (se a margarina tiver sal, dispensar a pitada);",
@@ -13,18 +15,24 @@
           "-3 ovos;",
           "-óleo para fritar;",
           "-açúcar e canela misturados para passar os churros depois de fritos;",
+
+          "RECHEIO:",
           "-doce de leite."],
 
-          "modo_preparo": ["-Aqueça a água em uma panela, abaixe o fogo e acrescente a margarina e o açúcar;",
-          "-Mexa bem, até dissolver toda a margarina;",
-          "-Acrescente aos poucos a farinha de trigo, mexendo sempre, até que a massa desprenda da panela;",
-          "-Tire do fogo e acrescente os ovos um a um, mexendo bem até misturar toda a massa;",
-          "-A seguir, coloque a massa num saco de confeiteiro com o bico em formato de pitanga, ou na forma própria para churros;",
-          "-Aperte, já dentro da frigideira com o óleo quente, o tamanho fica a seu critério, corte com a ponta dos dedos ou com uma faca;",
-          "-Depois de frito, coloque em papel toalha para que absorva a gordura;",
-          "-Açúcar e canela misturados para passar os churros depois de fritos;",
-          "-Em seguida, passe pelo açúcar com canela e recheie com doce de leite usando o bico que já vem junto com a forma."]
-      },
+          "modo_preparo": [
+            "MASSA:",
+            "-Aqueça a água em uma panela, abaixe o fogo e acrescente a margarina e o açúcar;",
+            "-Mexa bem, até dissolver toda a margarina;",
+            "-Acrescente aos poucos a farinha de trigo, mexendo sempre, até que a massa desprenda da panela;",
+            "-Tire do fogo e acrescente os ovos um a um, mexendo bem até misturar toda a massa;",
+            "-A seguir, coloque a massa num saco de confeiteiro com o bico em formato de pitanga, ou na forma própria para churros;",
+            "-Aperte, já dentro da frigideira com o óleo quente, o tamanho fica a seu critério, corte com a ponta dos dedos ou com uma faca;",
+            "-Depois de frito, coloque em papel toalha para que absorva a gordura;",
+            "-Açúcar e canela misturados para passar os churros depois de fritos;",
+
+            "FINAL:",
+            "-Em seguida, passe pelo açúcar com canela e recheie com doce de leite usando o bico que já vem junto com a forma."]
+        },
 
 
       {
@@ -32,10 +40,11 @@
         "nome": "Tortinha de Limão",
         "descricao": "Rápida e prática de se fazer, para alegrar seu dia!!",
         "imagePath": "https://5285.cdn.simplo7.net/static/5285/sku/e-liquids-Eliquid-tortalimao-1550515638612.jpg",
-        "ingredientes": ["Massa:",
+        "ingredientes": ["MASSA:",
           "-200 g de biscoito de maisena;",
-          "-150 g de margarina;",
-          "Recheio;:",
+          "-150 g de margarina.",
+
+          "RECHEIO:",
           "-1 lata de leite condensado (395 g);",
           "-1 caixa de creme de leite (200 g);",
           "Suco de 4 limões;",
@@ -45,23 +54,23 @@
           "3 colheres (sopa) de açúcar;",
           "Raspas de 2 limões para decorar."],
 
-        "modo_preparo": ["Massa:",
-          "Triture o biscoito de maisena em um liquidificador ou processador;",
-          "Junte a margarina e bata mais um pouco;",
-          "Despeje a massa em uma forma de fundo removível (27 cm de diâmetro);",
-          "Com as mãos, espalhe os biscoitos triturados no fundo e nas laterais da forma, cobrindo toda área de maneira uniforme;",
-          "Leve ao forno médio (180° C), preaquecido, por aproximadamente 10 minutos.",
+        "modo_preparo": ["MASSA:",
+          "-Triture o biscoito de maisena em um liquidificador ou processador;",
+          "-Junte a margarina e bata mais um pouco;",
+          "-Despeje a massa em uma forma de fundo removível (27 cm de diâmetro);",
+          "-Com as mãos, espalhe os biscoitos triturados no fundo e nas laterais da forma, cobrindo toda área de maneira uniforme;",
+          "-Leve ao forno médio (180° C), preaquecido, por aproximadamente 10 minutos.",
 
-          "Recheio:",
-          "Bata todos os ingredientes no liquidificador (exceto as raspas de limão) até obter um creme liso e firme;",
-          "Recheie a massa já assada e leve à geladeira por 30 minutos.",
+          "RECHEIO:",
+          "-Bata todos os ingredientes no liquidificador (exceto as raspas de limão) até obter um creme liso e firme;",
+          "-Recheie a massa já assada e leve à geladeira por 30 minutos.",
 
-          "Cobertura:",
-          "Bata as claras em neve e acrescente o açúcar;",
-          "Misture até obter um ponto de suspiro e leve ao forno até dourar.",
+          "COBERTURA:",
+          "-Bata as claras em neve e acrescente o açúcar;",
+          "-Misture até obter um ponto de suspiro e leve ao forno até dourar.",
 
-          "Final:",
-          "Desenforme a torta (sem retirar o fundo falso), despeje a cobertura e acrescente as raspas de limão."
+          "FINAL:",
+          "-Desenforme a torta (sem retirar o fundo falso), despeje a cobertura e acrescente as raspas de limão."
         ]
       },
 
@@ -70,8 +79,34 @@
         "nome": "Bolo de Cenoura",
         "descricao": "Delioso, muito fofinho e fácil de fazer!",
         "imagePath": "https://img.itdg.com.br/tdg/images/recipes/000/000/023/323619/323619_original.jpg?mode=crop&width=710&height=400",
-        "ingredientes": "",
-        "modo_preparo":[]
+        "ingredientes": ["MASSA:",
+        "-1/2 xícara (chá) de óleo;",
+        "-3 cenouras médias raladas;",
+        "-4 ovos;",
+        "-2 xícaras (chá) de açúcar;",
+        "-2 e 1/2 xícaras (chá) de farinha de trigo;",
+        "-1 colher (sopa) de fermento em pó.",
+
+        "COBERTURA:",
+        "1 colher (sopa) de manteiga;",
+        "3 colheres (sopa) de chocolate em pó;",
+        "1 xícara (chá) de açúcar;",
+        "1 xícara (chá) de leite."
+      ],
+
+        "modo_preparo":["MASSA:",
+          "Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture;",
+          "Acrescente o açúcar e bata novamente por 5 minutos;",
+          "Em uma tigela ou na batedeira, adicione a farinha de trigo e depois misture novamente;",
+          "Acrescente o fermento e misture lentamente com uma colher;",
+          "Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos.",
+
+          "COBERTURA:",
+          "Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture.",
+
+          "FINAL:",
+          "Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo."
+        ]
       },
 
       {
@@ -79,7 +114,45 @@
         "nome": "Coxinha",
         "descricao": "Uma receita que todos amam!",
         "imagePath": "https://vivareceita-cdn.s3.amazonaws.com/uploads/2021/04/Passo-a-passo-delicioso-de-como-fazer-massa-de-coxinha.-Fonte-Pixabay-500x500.jpg",
-        "ingredientes": ""
+        "ingredientes": ["MASSA:",
+          "-1 xícara (chá) de água;",
+          "-2 xícaras (chá) de leite;",
+          "-2 tabletes de caldo de bacon ou costela;",
+          "-1/2 xícara (chá) de batata cozida e amassada;",
+          "-1 colher (sopa) de manteiga;",
+          "-2 e 1/2 xícaras (chá) de farinha de trigo;",
+          "-margarina para untar a forma.",
+
+          "PARA EMPANAR:",
+          "-Farinha de rosca;",
+          "-2 ovos batidos;",
+          "-Óleo para fritar;",
+
+          "RECHEIO:",
+          "-1 e 1/2 kg de frango;",
+          "-3 colheres (sopa) de requeijão cremoso;",
+          "-2 colheres (sopa) de azeite;",
+          "-1 cebola pequena",
+          "-2 dentes de alho;",
+          "-Tempero a gosto"
+
+        ],
+
+        "modo_preparo": [
+          "RECHEIO:",
+          "-Em uma panela, coloque o azeite, o alho picado e a cebola;",
+          "-Espere fritar e adicione o frango desfiado e os temperos de sua preferência;",
+          "-Refogue tudo por 5 minutos, retire do fogo, acrescente o requeijão, misture e reserve.",
+
+          "MASSA:",
+          "-Em uma panela grande, adicione a água, o leite, o tablete de caldo, a batata, a manteiga e deixe ferver. Acrescente a farinha de trigo de uma só vez, mexendo até soltar do fundo da panela;",
+          "-Despeje a massa sobre uma superfície lisa e untada, sove bem e deixe esfriar;",
+          "-Abra a massa com as mãos, recheie e modele em forma de coxinha;",
+          "-Passe a massa modelada pelo ovo batido e pela farinha de rosca;",
+
+          "FINAL:",
+          "-Frite em óleo quente até dourar e escorra sobre papel absorvente."
+        ]
       },
 
       {
@@ -87,7 +160,18 @@
         "nome": "Pão de Queijo",
         "descricao": "Famoso e ótimo para seu café tarde!!!",
         "imagePath": "https://s2.glbimg.com/9QNO2q8PEeOPLWikHCfMzZl75ZE=/620x466/e.glbimg.com/og/ed/f/original/2020/08/15/pao-de-queijo-mineiro.jpg",
-        "ingredientes": ""
+        "ingredientes": ["MASSA:",
+        "-1 caixinha de creme de leite (200 ml);",
+        "-1 copo (requeijão) de queijo ralado (misturei parmesão e mussarela ralada)",
+        "-1 copo (requeijão) de queijo ralado (misturei parmesão e mussarela ralada)"],
+
+        "modo_preparo": ["MASSA:",
+          "-Amasse até soltar das mãos (caso precise um pouquinho a mais de polvilho, coloque aos poucos até que chegue ao ponto de enrolar);",
+          "-Faça bolinhas, coloque em forma untada e asse em forno preaquecido bem quente;",
+          "-Se achar necessário, acrescente sal.",
+
+          "FINAL:",
+          "-Asse até ficarem douradinhos levemente."]
       },
 
       {
@@ -95,7 +179,28 @@
         "nome": "Waffle Clássico",
         "descricao": "Tanto doce quanto salgado, uma delícia!",
         "imagePath": "https://i.pinimg.com/736x/34/9c/7d/349c7d1e87d4ce612e36006115418ef4.jpg",
-        "ingredientes": ""
+        "ingredientes":["MASSA:",
+          "MASSA:",
+          "-2 xícaras (chá) de farinha de trigo;",
+          "-2 colher (sopa) de açúcar;",
+          "-2 colheres (chá) de fermento em pó;",
+          "-1/2 colher (chá) de sal;",
+          "-2 colheres amido de milho;",
+          "-3 ovos batidos;",
+          "-4 colheres (sopa) de manteiga sem sal derretida;",
+          "-1 e 3/4 de xícara (chá) de leite;",
+          "-1 colher (sopa) de essência de baunilha."
+      ],
+        "modo_preparo": [
+          "MASSA:",
+          "-Peneire em um recipiente a farinha de trigo, o açúcar, o amido, o fermento e o sal. Reserve;",
+          "-Em outro recipiente misture os ovos batidos com o leite, a manteiga derretida e a essência de baunilha;",
+          "-Despeje sobre a mistura de farinha e rapidamente incorpore os ingredientes;",
+          "-Aqueça o aparelho para Waffles. Coloque uma concha rasa de massa e espalhe até cobrir o molde do aparelho, feche a tampa e deixe assar até a massa ficar bem dourada.",
+
+          "FINAL:",
+          "-Retire com espátulas de silicone. Sirva com mel, frutas ou geleia."
+      ]
       }
     ]
 }
